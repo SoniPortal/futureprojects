@@ -1,2 +1,0 @@
-floppy cube simulator ported from my old python project to processing (graphical)
-rubik's rings/hungarian rings
